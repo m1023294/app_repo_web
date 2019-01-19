@@ -30,7 +30,7 @@
             <version>2.7.2</version>
             <configuration>
                 <includes>
-                    <include>**/${testGroup}/*Test.java</include>
+                    <include>**/test/com/mindtree/*Test.java</include>
                 </includes>
             </configuration>
         </plugin>
