@@ -1,7 +1,8 @@
 package test.com.mindtree;
+
 import static org.junit.Assert.*;
 
-import org.junit.Test;
+import org.junit.*;
 
 import main.com.mindtree.TestApp;
 
