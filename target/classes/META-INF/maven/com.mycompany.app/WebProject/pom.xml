@@ -5,7 +5,7 @@
 	<artifactId>WebProject</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0.0</version>
-	<name>junitmavenexample</name>
+	<name>WebProject</name>
 	<url>http://maven.apache.org</url>
 	
 	<dependencies>

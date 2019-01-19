@@ -1,4 +1,4 @@
-package com.javacodegeeks.examples.junitmavenexample;
+package com.mindtree;
 
 public class Calculator implements ICalculator {
 
