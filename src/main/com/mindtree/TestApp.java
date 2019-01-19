@@ -8,6 +8,11 @@ public class TestApp {
 		list.add("Niranjan");
 		list.add("Bhanu");
 		list.add("Vishwa");
+		System.out.println(list);
 		return list;
+	}
+	
+	public static void main(String[] args) {
+		new TestApp().getNames();
 	}
 }
