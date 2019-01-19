@@ -1,4 +1,4 @@
-package com.mindtree;
+package main.java.com.mindtree;
 
 public interface ICalculator {
 	int sum(int a, int b);

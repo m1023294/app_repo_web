@@ -1,4 +1,4 @@
-package com.mindtree;
+package main.java.com.mindtree;
 
 public class Calculator implements ICalculator {
 

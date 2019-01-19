@@ -4,6 +4,10 @@
   <artifactId>WebProject</artifactId>
   <version>1.0.0</version>
   <packaging>war</packaging>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+</properties>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
