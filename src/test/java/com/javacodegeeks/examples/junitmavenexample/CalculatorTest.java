@@ -1,4 +1,4 @@
-package test.java.com.mindtree;
+package com.javacodegeeks.examples.junitmavenexample;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -9,9 +9,6 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
-
-import main.java.com.mindtree.Calculator;
-import main.java.com.mindtree.ICalculator;
 
 public class CalculatorTest {
 	private static ICalculator calculator;
