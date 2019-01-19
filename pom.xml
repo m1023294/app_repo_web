@@ -31,7 +31,7 @@
             <version>2.19.1</version>
             <configuration>
                 <includes>
-                    <include>**/${testGroup}/*Test.java</include>
+                    <include>src/test/com/mindtree/*Test.java</include>
                 </includes>
             </configuration>
         </plugin>
