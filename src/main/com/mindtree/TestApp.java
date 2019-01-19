@@ -11,8 +11,4 @@ public class TestApp {
 		System.out.println(list);
 		return list;
 	}
-	
-	public static void main(String[] args) {
-		new TestApp().getNames();
-	}
 }
