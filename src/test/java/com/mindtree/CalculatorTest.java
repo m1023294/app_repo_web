@@ -10,6 +10,9 @@ import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
 
+import main.java.com.mindtree.Calculator;
+import main.java.com.mindtree.ICalculator;
+
 public class CalculatorTest {
 	private static ICalculator calculator;
 
