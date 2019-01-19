@@ -2,11 +2,16 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.javacodegeeks</groupId>
-	<artifactId>junitwebapp</artifactId>
+	<artifactId>WebProject</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>junitwebapp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+	<properties>
+        <project.java.version>1.8</project.java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
