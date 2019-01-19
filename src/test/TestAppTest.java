@@ -1,6 +1,9 @@
+package test;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import com.mindtree.main.TestApp;
 
 public class TestAppTest {
 
