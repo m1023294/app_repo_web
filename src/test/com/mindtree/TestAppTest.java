@@ -33,9 +33,4 @@ public class TestAppTest {
 		assertEquals(Arrays.asList("Niranjan", "Bhanu", "Vishwa"), testApp.getNames4());
 	}
 	
-	@Test
-	public void testGetName() {
-		TestApp testApp=new TestApp();
-		assertEquals("Niranjan", testApp.getNames4().get(1));
-	}
 }	
