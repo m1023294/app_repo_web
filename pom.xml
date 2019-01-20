@@ -12,7 +12,7 @@
 	</properties>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
-		<testSourceDirectory>**/test/**.*</testSourceDirectory>
+		<testSourceDirectory>src/test/com/mindtree</testSourceDirectory>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
